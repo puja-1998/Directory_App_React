@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/remctdirectoryapp/static/css/main.740fced2.css",
+    "main.js": "/remctdirectoryapp/static/js/main.245de3d5.js",
+    "static/js/453.cb0f2b8f.chunk.js": "/remctdirectoryapp/static/js/453.cb0f2b8f.chunk.js",
+    "index.html": "/remctdirectoryapp/index.html",
+    "main.740fced2.css.map": "/remctdirectoryapp/static/css/main.740fced2.css.map",
+    "main.245de3d5.js.map": "/remctdirectoryapp/static/js/main.245de3d5.js.map",
+    "453.cb0f2b8f.chunk.js.map": "/remctdirectoryapp/static/js/453.cb0f2b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740fced2.css",
+    "static/js/main.245de3d5.js"
+  ]
+}
